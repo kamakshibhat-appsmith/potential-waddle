@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "66ea86a6707c2a7e76313913_1c33c4d7-b255-4ab8-a44b-5492f96625e3",
+  "id": "Page1_Query1Module1a",
+  "moduleUUID": "8ab2afed-a122-45f2-b99f-1ade1a140de7",
+  "packageUUID": "3eb40089-2199-4a9b-aa22-bddea41c2241",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "11",
+      "input2": "2"
+    },
+    "moduleInputs": {
+      "ppvqlbuaiw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ppvqlbuaiw",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
+      "yqhchysedj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "yqhchysedj",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      }
+    },
+    "name": "Query1Module1a",
+    "pageId": "Page1",
+    "version": "0.0.8"
+  }
+}
