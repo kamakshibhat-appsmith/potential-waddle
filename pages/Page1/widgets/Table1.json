@@ -509,7 +509,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 35,
   "searchKey": "",
-  "tableData": "{{new1.myFun1a.data}}",
+  "tableData": "{{new11.myFun1a.data}}",
   "textSize": "0.875rem",
   "topRow": 9,
   "totalRecordsCount": 0,
