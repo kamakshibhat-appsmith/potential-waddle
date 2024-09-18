@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66ea86a6707c2a7e76313913_791b9530-8f8b-473b-96d1-835e301d2cd3",
-  "id": "Page1__$new1$_a.myFun1a",
+  "id": "Page1__$new1$_a.myFun1aanew",
   "isPublic": true,
   "moduleInstanceId": "Page1_new1",
   "pluginId": "js-plugin",
@@ -16,9 +16,9 @@
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin"
     },
-    "executeOnLoad": true,
-    "fullyQualifiedName": "_$new1$_a.myFun1a",
-    "name": "myFun1a",
+    "executeOnLoad": false,
+    "fullyQualifiedName": "_$new1$_a.myFun1aanew",
+    "name": "myFun1aanew",
     "pageId": "Page1",
     "userSetOnLoad": false
   }

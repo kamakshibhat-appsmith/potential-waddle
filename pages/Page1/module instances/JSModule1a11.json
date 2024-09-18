@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun11test": "[\"11\"]",
+      "myFun11testnew": "[\"11\"]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "knwydwzyvb",
-        "label": "myFun11test",
+        "label": "myFun11testnew",
         "propertyName": "inputs.myFun1"
       },
       "lzanpkbyvt": {
@@ -28,6 +28,6 @@
     },
     "name": "JSModule1a11",
     "pageId": "Page1",
-    "version": "0.0.15"
+    "version": "0.0.18"
   }
 }
