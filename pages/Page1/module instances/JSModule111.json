@@ -1,33 +1,33 @@
 {
-  "gitSyncId": "66ea86a6707c2a7e76313913_05ba862b-d298-452f-bd1e-ce760a7ddceb",
-  "id": "Page1_new11",
-  "moduleUUID": "f32695cd-f920-40dc-a217-dae97de74b8d",
-  "packageUUID": "3eb40089-2199-4a9b-aa22-bddea41c2241",
+  "gitSyncId": "66ea8e65707c2a7e76313e63_0464d3d1-98c7-4a32-acd8-5874428ea2bf",
+  "id": "Page1_JSModule111",
+  "moduleUUID": "762230bc-307b-4df5-9bea-0ef55c78aef7",
+  "packageUUID": "6bfb81af-a5e6-4db3-8dfa-81fe07b525f5",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1aanew1": "[\"1\"]",
+      "myFun11q": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "rbfzlihaki": {
+      "fznpgifplf": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "rbfzlihaki",
-        "label": "myFun1aanew1",
+        "id": "fznpgifplf",
+        "label": "myFun11q",
         "propertyName": "inputs.myFun1"
       },
-      "vwqdmdrdkl": {
+      "voxatoomfk": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "vwqdmdrdkl",
+        "id": "voxatoomfk",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
       }
     },
-    "name": "new11",
+    "name": "JSModule111",
     "pageId": "Page1",
-    "version": "0.0.21"
+    "version": "0.0.5"
   }
 }
