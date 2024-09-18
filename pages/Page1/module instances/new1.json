@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1a": "[\"1\"]",
+      "myFun1aanew1": "[\"1\"]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "rbfzlihaki",
-        "label": "myFun1a",
+        "label": "myFun1aanew1",
         "propertyName": "inputs.myFun1"
       },
       "vwqdmdrdkl": {
@@ -28,6 +28,6 @@
     },
     "name": "new1",
     "pageId": "Page1",
-    "version": "0.0.15"
+    "version": "0.0.20"
   }
 }
