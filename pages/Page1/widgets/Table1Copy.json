@@ -509,7 +509,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 35,
   "searchKey": "",
-  "tableData": "{{JSModule1a111.myFun1.data}}",
+  "tableData": "{{JSModule1a1111.myFun1.data}}",
   "textSize": "0.875rem",
   "topRow": 38,
   "totalRecordsCount": 0,
